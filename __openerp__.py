@@ -22,7 +22,7 @@
 
 {
     'name': 'Div Zero',
-    'version': '1.0',
+    'version': '3.0',
     'author': 'Savoir-faire Linux',
     'maintainer': 'Savoir-faire Linux',
     'website': 'http://www.savoirfairelinux.com',
@@ -32,7 +32,8 @@
     'description': """
 Div Zero
 ========
-Installs a table with a column who's name is the string representation of 1/0.
+Installs a model with a view which has a button to generate a div zero
+exception, however the function does not exist yet.
 
 Contributors
 ------------
