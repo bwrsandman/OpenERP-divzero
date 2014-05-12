@@ -22,7 +22,7 @@
 
 {
     'name': 'Div Zero',
-    'version': '3.0',
+    'version': '4.0',
     'author': 'Savoir-faire Linux',
     'maintainer': 'Savoir-faire Linux',
     'website': 'http://www.savoirfairelinux.com',
@@ -33,7 +33,7 @@
 Div Zero
 ========
 Installs a model with a view which has a button to generate a div zero
-exception, however the function does not exist yet.
+exception.
 
 Contributors
 ------------
