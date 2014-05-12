@@ -42,7 +42,9 @@ Contributors
     'external_dependencies': {
         'python': [],
     },
-    'data': [],
+    'data': [
+        'div_zero_view.xml',
+    ],
     'demo': [],
     'test': [],
     'installable': True,
